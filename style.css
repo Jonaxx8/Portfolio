@@ -4,3 +4,49 @@ body{
 .nav-item{
     margin: 10px;
 }
+nav{
+    position: fixed;
+}
+h1{
+    font-family: 'Be Vietnam Pro', sans-serif;
+    color: #FCFCFC;
+    font-size: 80px;
+    display: inline-block;
+}
+
+span{
+    color: #368DFF;
+}
+.name-title{
+    margin-left: 103px;
+    margin-top: 180px;
+}
+.github-icon{
+    height: 75px;
+    width: 75px;
+    margin-left: 103px;
+    margin-top: 65px;
+}
+.linkedin-icon{
+    height: 75px;
+    width: 75px;
+    margin-top: 65px;
+    margin-left: 60px;
+}
+.insta-icon{
+    height: 75px;
+    width: 75px;
+    margin-top: 65px;
+    margin-left: 60px;
+}
+.portfolioDP{
+    height: 810px;
+    width: 810px;
+    margin-left: 300px;
+    margin-top: 0px;
+}
+.name-and-logos{
+    display: inline-block;
+}
+
+
