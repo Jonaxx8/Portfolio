@@ -48,5 +48,35 @@ span{
 .name-and-logos{
     display: inline-block;
 }
+.skills-heading{
+    margin-left: 122px;
+    margin-top: 191px;
+    margin-bottom: 119px;
+}
+p{
+    font-family: 'Be Vietnam Pro', sans-serif;
+    color: #FCFCFC;
+    font-size: 34px;
+    display: inline-block;  
+    margin-left: 122px;
+    display: inline-block;
+}
+.skills-container{
+    margin-bottom: 120px;
+    display: inline-block;
+}
+.skills-page-python{
+    height: 300px;
+    width: 300px;
+    margin-top: -600px;
+    margin-left: 165px;
+}
+.skills-page-html{
+    height: 280px;
+    width: 280px;
+    margin-left: 180px;
+    margin-top: -68px;
+}
+
 
 
