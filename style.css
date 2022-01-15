@@ -77,6 +77,46 @@ p{
     margin-left: 180px;
     margin-top: -68px;
 }
-
-
-
+.projects-heading{
+    margin-left: 122px;
+    margin-top: 191px;
+    margin-bottom: 77px;
+}
+.card{
+    margin-left: 122px;
+    margin-bottom: 100px;
+    margin-right: 80px;
+    width: 429px;
+    height: 566px;
+    background-color: #6A6A6A;
+    
+}
+.card-text{
+    font-size: 15px;
+    margin-left: auto;
+    color: rgb(226, 223, 223);
+}
+.card-img-top{
+    height: 69%;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.btn:hover{
+    background-color: rgb(87, 84, 83);
+    box-shadow: 8px 8px 20px 0 rgba(0, 0, 0, 0.2);
+    color: #368DFF;
+}
+.card:hover {
+    box-shadow: 8px 8px 20px 0 rgba(0, 0, 0, 0.2);
+}
+.card-group{
+    margin-bottom: 122px;
+}
+.car-img-top{
+    margin-left: auto;
+    margin-right: auto;
+    height: 250px;
+    margin-top: 90px;
+    margin-bottom: 40px;
+}
