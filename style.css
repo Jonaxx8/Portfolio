@@ -84,7 +84,7 @@ p{
 }
 .card{
     margin-left: 122px;
-    margin-bottom: 100px;
+    margin-bottom: 150px;
     margin-right: 80px;
     width: 429px;
     height: 566px;
@@ -110,13 +110,40 @@ p{
 .card:hover {
     box-shadow: 8px 8px 20px 0 rgba(0, 0, 0, 0.2);
 }
-.card-group{
-    margin-bottom: 122px;
-}
+
 .car-img-top{
     margin-left: auto;
     margin-right: auto;
     height: 250px;
     margin-top: 90px;
     margin-bottom: 40px;
+}
+.contacts-heading{
+    margin-left: 122px;
+    margin-top: 191px;
+    margin-bottom: 77px;
+}
+form{
+    margin-bottom: 140px;
+}
+.btn submit{
+    margin-left: 122px;
+}
+.text-box{
+    background-color: gray;
+    color: whitesmoke;
+    border-radius: 20px;
+    height: 40px;
+}
+.text-desc-box{
+    background-color: gray;
+    color: whitesmoke;
+    border-radius: 20px;
+}
+.btn-submit{
+    margin-left: 122px;
+    box-shadow: 8px 8px 20px 0 rgba(0, 0, 0, 0.2);
+    border-radius: 20px;
+    height: 40px;
+    width: 80px;
 }
